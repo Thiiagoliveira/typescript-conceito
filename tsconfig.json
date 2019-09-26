@@ -1,0 +1,9 @@
+{
+    "CompilerOptions": {
+        "target":"es6", // Qual será convertido;
+        "outDir":"app/js" // Resultado da compilação e neste diretório;
+    },
+    "include": [
+        "app/ts/**/*" // Todos os arquivos e subdiretórios;
+    ]
+}

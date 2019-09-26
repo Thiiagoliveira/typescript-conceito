@@ -1,0 +1,23 @@
+{
+  "name": "typescript-conceito",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thiiagoliveira/typescript-conceito.git"
+  },
+  "author": "Thiago Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thiiagoliveira/typescript-conceito/issues"
+  },
+  "homepage": "https://github.com/Thiiagoliveira/typescript-conceito#readme",
+  "devDependencies": {
+    "typescript": "^2.3.2"
+  }
+}
